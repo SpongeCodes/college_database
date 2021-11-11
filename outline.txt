@@ -1,0 +1,12 @@
+College Database System
+
+which will keep track of students, teachers, and departments and will have
+a centralised view of all departments
+
+students in the departments
+
+first list of departments will be given
+
+CS/IT/ETC/MECHANICAL/CIVIL
+
+admin will be able to approve students registration and then students will be added to a Database
